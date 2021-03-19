@@ -7,7 +7,7 @@ Cython==0.29.15
 defusedxml==0.6.0
 Django==3.0.2
 django-templated-mail==1.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
